@@ -1,4 +1,12 @@
 package com.twitter.poruke;
+/**
+ * Klasa TwitterPoruka
+ * @author Marko
+ * <ul>Ova klasa ima atribute:
+ * 	<li>korisnik
+ * 	<li>poruka
+ * </ul>
+ */
 
 public class TwitterPoruka {
 	
